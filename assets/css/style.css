@@ -101,3 +101,13 @@ p input {
 .step.finish {
     background-color: #04AA6D;
 }
+
+footer{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
