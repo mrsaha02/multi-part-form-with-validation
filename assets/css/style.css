@@ -93,7 +93,8 @@ p input {
     background: transparent;
 }
 .error-message{
-    color: rgb(236, 48, 48);
+    color: rgb(233, 40, 40);
+
 }
 
 .step.active {
