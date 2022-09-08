@@ -13,7 +13,7 @@ body {
     margin: 100px auto;
     font-family: Raleway;
     padding: 40px;
-    width: 70%;
+    width: 40%;
     min-width: 300px;
 }
 
@@ -91,6 +91,9 @@ p input {
     border-bottom: 1px solid black;
     outline: none;
     background: transparent;
+}
+.error-message{
+    color: rgb(236, 48, 48);
 }
 
 .step.active {
